@@ -1,0 +1,65 @@
+html {
+    background-color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Home {
+    text-align: center;
+
+    padding: 100px;
+    width: 100%;
+    
+}
+
+.homepil {
+    
+    background-color: rgb(199, 2, 81);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.homepil:hover {
+    background-color: white;
+    color: rgb(199, 2, 81);
+}
+
+.homewrapper {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.searchbar {
+    padding: 9px;
+    margin: 5px;
+    border-radius: 4px;
+    border: 1px solid rgb(235, 75, 139);
+    margin-bottom: 20px;
+    background-color: transparent;
+}
+
+.tombols {
+    padding: 12px;
+    border-radius: 2px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.imagegif {
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+h1 {
+    color: rgb(199, 2, 81);
+    margin-bottom: 30px;
+}
+
+.cari {
+    text-align: center;
+    padding-top: 30px;
+}
+
