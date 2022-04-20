@@ -17,7 +17,7 @@ function App() {
                 <Route path="/">
                     <div className="homewrapper">
                         <h1>Welcome to our homepage</h1>
-                        <Link to="/App" className="homepil">Search Giphy</Link>
+                        <Link to="/App" className="homepil">Search Giphy</Link><br></br>
                         <Link to="/Trending" className="homepil">See what`s trending!</Link>
                     </div>
 
